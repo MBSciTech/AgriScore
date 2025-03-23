@@ -5,6 +5,7 @@ AgriScore is a modern web application designed to provide alternative credit eva
 ## 🌟 Features
 
 ### For Farmers
+
 - **Alternative Credit Evaluation**: Get credit scores based on multiple data points beyond traditional financial metrics
 - **Real-time Weather Integration**: Access weather forecasts and climate risk assessments
 - **Soil Health Analysis**: Track and analyze soil quality metrics
