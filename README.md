@@ -135,15 +135,6 @@ agriscore/
 - `historical_data`: Historical performance data
 - `weather_data`: Weather and climate information
 
-## 👥 Contributors
-
-### Core Team
-- [Rahul Sharma](https://github.com/rahulsharma) - Frontend Developer & UI/UX Designer
-- [Priya Patel](https://github.com/priyapatel) - Backend Developer & Database Architect
-- [Amit Kumar](https://github.com/amitkumar) - Full Stack Developer & API Integration
-- [Neha Gupta](https://github.com/nehagupta) - Data Scientist & Analytics Expert
-- [Arun Singh](https://github.com/arunsingh) - DevOps Engineer & Security Specialist
-
 ## 🤝 Contributing
 
 1. Fork the repository
